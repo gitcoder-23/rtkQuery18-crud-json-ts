@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Marcos Dicozta",
+      "email": "marco@gmail.com",
+      "contact": "7894561235",
+      "id": 1
+    },
+    {
+      "name": "Tom Cruise",
+      "email": "tom@gmail.com",
+      "contact": "83786646476",
+      "id": 2
+    },
+    {
+      "name": "James Bond",
+      "email": "james@gmail.com",
+      "contact": "9484785787",
+      "id": 3
+    },
+    {
+      "name": "Wilson Smith",
+      "email": "wilson@gmail.com",
+      "contact": "7894568521",
+      "id": 4
+    }
+  ]
+}
